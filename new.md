@@ -1,2 +1,2 @@
-this was done usimg commandline.
+this was done using commandline.
 
